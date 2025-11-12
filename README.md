@@ -1,16 +1,7 @@
 # TalentScout Hiring Assistant
 
-An AI-powered candidate screening platform built with Streamlit and Google Gemini AI. This intelligent hiring assistant conducts comprehensive technical interviews, evaluates candidates' skills, and provides detailed assessments.
+An AI-powered candidate screening platform built with Streamlit and Google Gemini AI. 
 
-## Features
-
-- **Automated Interview Process**: Guides candidates through a structured interview flow
-- **Smart Question Generation**: AI-powered technical questions tailored to candidate's tech stack
-- **Real-time Progress Tracking**: Visual progress indicators and completion percentage
-- **Professional UI**: Modern, responsive interface with animated backgrounds
-- **Conversation Management**: Intelligent state machine handling 11 different interview stages
-- **Data Validation**: Pydantic models ensure data quality and consistency
-- **Export Ready**: Candidate data structured for easy export and review
 
 ## Tech Stack
 
@@ -265,15 +256,7 @@ For issues:
 - Data validation
 - Export-ready structure
 
-## Roadmap
 
-- [ ] Database integration
-- [ ] Email notifications
-- [ ] PDF report generation
-- [ ] Multi-language support
-- [ ] Admin dashboard
-- [ ] Analytics
-- [ ] ATS integration
 
 ---
 
