@@ -28,7 +28,6 @@ HRINING/
 │   ├── gemini_client.py       # Google Gemini API wrapper
 │   └── ui_components.py       # Reusable UI components
 ├── .env                        # Environment variables (API keys)
-├── .env.example               # Example environment configuration
 ├── requirements.txt           # Python dependencies
 └── README.md                  # This file
 ```
